@@ -64,7 +64,6 @@
 </br>
 
 
-![Github Cover](githubcover.jpg)
 
 
 ## 🚀 Connect with me
