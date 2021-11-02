@@ -1,6 +1,6 @@
 <h1 style="color: red; font-weight : 700; font-size : 40px;" align="center" >🖐 Hi, I am Asadullah Hil Galib</h1>
 
-<img  style="margin-right: 20px;" width="350" align="left" src="https://i.ibb.co/M1VKzkd/programmer-1.gif"/>
+<img src="https://i.ibb.co/7jRfQpW/github-profile.jpg"/>
 <div>
     <h1 align="center" >Welcome to my Github Profile</h1>
     <h2>I have the skills to create any kind of mobile and web application for you</h2>
