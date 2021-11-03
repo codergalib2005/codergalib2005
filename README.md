@@ -18,10 +18,6 @@
    <li>💻I'm currently Learning deep level programming💻</li>
    <br/>
    <li>2021 Goals: <b>Full Stack Web and Application Developer</b> </li>
-   <br/>
-   <li>💻 Most used code console.log()</li>
-   <br/>
-   <li>😂 Fun Fact: I love learn to code</li>
 </ul>
 
 <hr/>
