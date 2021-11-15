@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/7jRfQpW/github-profile.jpg"/>
 <div>
     <h1 align="center" >Welcome to my Github Profile</h1>
-    <h2>I have the skills to create any kind of mobile and web application for you</h2>
+    <h2>I have the skills to create any kind of mobile and web application for you as a junior developer</h2>
     <p>I love code with javascript language.</p>
 </div>
 
