@@ -3,7 +3,9 @@
 <img src="https://i.ibb.co/7jRfQpW/github-profile.jpg"/>
 <div>
     <h1 align="center" >Welcome to my Github Profile</h1>
-    <h2>I have the skills to create any kind of mobile and web application for you as a junior developer</h2>
+    <h3>Hello everyone!
+I'm an enthusiastic and detail-oriented Front end web developer to use my skills in coding, troubleshooting complex design, and assisting in the timely completion of projects. I love focusing smart concepts with creative, standards-based, accessible Front-end development. Also, I'm always looking for new challenges & new people to meet.
+Thanks a ton for visiting My Profile!</h3>
     <p>I love code with javascript language.</p>
 </div>
 
