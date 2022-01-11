@@ -19,7 +19,6 @@ Thanks a ton for visiting My Profile!</h3>
    <br/>
    <li>💻I'm currently Learning deep level programming💻</li>
    <br/>
-   <li>2021 Goals: <b>Full Stack Web and Application Developer</b> </li>
 </ul>
 
 <hr/>
