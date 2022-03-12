@@ -70,3 +70,15 @@ Thanks a ton for visiting My Profile!</h3>
 [![Twitter Badge](https://img.shields.io/badge/Twitter-e83a3b?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/in/codergalib20/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codergalib20)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderboygalif@gmail.com)
+
+
+
+
+<details>
+<summary>Search Book Archive</summary>
+
+1. Live Demo: https://book-archive-vanilla-js-smabtahinoor.vercel.app/
+2. Github Code:https://github.com/coderabtahinoor/Book-Archive-VanillaJS
+3. Technology : Vaniila JS
+![ss](https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1333&q=80)
+</details>
