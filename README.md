@@ -1,6 +1,6 @@
 <h1 style="color: red; font-weight : 700; font-size : 40px;" align="center" >🖐 Hi, I am Asadullah Hil Galib</h1>
 
-<img src="https://res.cloudinary.com/dpolvpc0n/image/upload/v1665983241/Loading_rvzanq.gif"/>
+<img src="https://res.cloudinary.com/dpolvpc0n/image/upload/v1665983401/Loading_pjs5rz.jpg"/>
 <div>
     <h1 align="center" >Welcome to my Github Profile</h1>
     <h3>Hello everyone!
