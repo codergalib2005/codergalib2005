@@ -97,9 +97,9 @@ Thanks a ton for visiting My Profile!</h3>
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-
-
-
+</td>
+</tr>
+</table>
 
 
 
