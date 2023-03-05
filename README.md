@@ -1,4 +1,3 @@
-<img src="https://res.cloudinary.com/dpolvpc0n/image/upload/v1665983401/Loading_pjs5rz.jpg"/>
 <div>
     <h1 align="center" >Welcome to my Github Profile</h1>
     <h3>Hello everyone!
