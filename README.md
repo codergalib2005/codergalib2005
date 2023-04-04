@@ -7,7 +7,7 @@ Thanks a ton for visiting My Profile!</h3>
 </div>  
 
 
-<br/>
+ <br/>
 <br/>
 <hr/>
 <h3 align="center">A passionate frontend developer from India</h3>
