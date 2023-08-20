@@ -1,16 +1,13 @@
 <div>
      <h1 align="center" >Welcome to my Github Profile</h1>
-     <h3>Hello everyone!
-I'm an enthusiastic and detail-oriented Front end web developer to use my skills in coding, troubleshooting complex design, and assisting in the timely completion of projects. I love focusing smart concepts with creative, standards-based, accessible Front-end development. Also, I'm always looking for new challenges & new people to meet.
-Thanks a ton for visiting My Profile!</h3>
- <p>I love code with javascript language.</p>
+     <h3>Hello everyone!</h3>
 </div>  
 
 
  <br/>
 <br/>
 <hr/>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codergalib2005&label=Profile%20views&color=0e75b6&style=flat" alt="codergalib2005" /> </p>
 
