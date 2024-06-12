@@ -1,6 +1,6 @@
 <div>
      <h1 align="center" >Welcome to my Github Profile</h1>
-     <h3>Hello everyone!</h3>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codergalib2005&theme=github_dark" width="100%">
 </div>  
 
 
