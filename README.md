@@ -20,7 +20,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codergalib2005" alt="codergalib2005" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/codergalib2005" target="blank"><img src="https://img.shields.io/twitter/follow/codergalib2005?logo=twitter&style=for-the-badge" alt="codergalib2005" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
